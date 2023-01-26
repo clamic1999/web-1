@@ -74,6 +74,9 @@ footer{
         margin-top: 0.5rem;
         border-radius: 50%;
     }
+    body{
+        background-size: 90vh 100vh;
+    }
     .navlinks{
         float: right;
         display: inline-flex;
