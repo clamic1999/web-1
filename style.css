@@ -77,5 +77,8 @@ footer{
     button{
         display: flex;         
     }
+    footer{
+        display: flex;
+    }
     
 }
