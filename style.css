@@ -84,6 +84,7 @@ footer{
     }
     
     footer{
+        top: 25px;
         display: flex;
     }
     
